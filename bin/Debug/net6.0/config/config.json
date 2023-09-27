@@ -1,0 +1,10 @@
+{
+  "excutor": "Test", //可选有Outline,Article
+  "key": "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",
+  "org": "org-oFnJRhcS1TVgAsg1gdpUDZUt",
+  "max_tokens": 1024,
+  "temperature": 0.5,
+  "category": 1,
+  "connstr": "server=localhost;database=wukong;user=root;password=root;Character Set=utf8",
+  "table": ""
+}
